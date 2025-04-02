@@ -1,0 +1,16 @@
+.Header {
+  height: 20vh;
+  width: 100%;
+  display: flex;
+  padding: 30px;
+  justify-content: space-evenly;
+  background-color: #010517;
+  position: sticky;
+  top: 0;
+  z-index: 99999;
+}
+.Header > img {
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+}
